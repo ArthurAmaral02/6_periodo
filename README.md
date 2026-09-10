@@ -1,0 +1,1 @@
+este repositorio é referente a algumas atividade do meu 6 peirodo

@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "2026-2-minf-0106-cd"
+assignment: "2026-2-minf-0106-cd-atividade-01"
+owner:
+  username: "ArthurAmaral02"
+  id: 211175856
+  accepted_at: "2026-09-04T11:12:36Z"
+source:
+  owner: "c3-disciplina-cd"
+  owner_id: 99728615
+  repo: "c3-disciplina-cd-2026-2-MINF-0106-atividade-01-template"
+  branch: "main"
