@@ -12,20 +12,21 @@ class Agent(rpyc.Service):
         return socket.gethostname()
 
     def exposed_ping(self, target):
-        cmd = [
-            "ping",
-            "-c",
-            "10",
-            target
-        ]
+        try:
+            cmd = ["ping", "-c", "10", target]
 
-        output = subprocess.check_output(cmd)
+            output = subprocess.check_output(
+                cmd,
+                stderr=subprocess.STDOUT
+            )
 
-        return output.decode()
+            return output.decode()
+
+        except subprocess.CalledProcessError as e:
+            return e.output.decode()
 
 
 if __name__ == "__main__":
-
     from rpyc.utils.server import ThreadedServer
 
     server = ThreadedServer(
@@ -34,5 +35,4 @@ if __name__ == "__main__":
     )
 
     print("RPyC Agent iniciado")
-
     server.start()
