@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "72990053317259d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5697a82f7397124f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3388e2aac7d25041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paradigmas/nova coisa/atividade4-analise-swift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atividade4-analise-swift"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6701a2cfee7b8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae51338cd42719ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d19847d76ee9e2bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ed6adfef7170e3d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "897b3815c7a46c57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "78fe759f61a6951a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81686af685f7c1f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2591af31140deadd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DNS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "cfc6da94abef7b02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DNS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "d49f9764ea1694b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c1aadeea4de7a51e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "4f016a7d135a5993",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DNS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "3388e2aac7d25041",
+  "lastOpenFiles": [
+    "gerenciador.md",
+    "Pasted image 20260925120445.png",
+    "Pasted image 20260925121157.png",
+    "paradigmas/Pasted image 20260923092738.png",
+    "paradigmas/atividade 1/Pasted image 20260922192220.png",
+    "paradigmas/atividade 1/atividade paradigmas.md",
+    "paradigmas/atividade 1/Pasted image 20260923092738.png",
+    "paradigmas/atividade 1/Pasted image 20260923063831.png",
+    "paradigmas/atividade 1/Pasted image 20260923060411.png",
+    "paradigmas/atividade 1/Pasted image 20260922224329.png",
+    "paradigmas/atividade 1/Pasted image 20260922223935.png",
+    "paradigmas/atividade 1/Pasted image 20260922222821.png",
+    "paradigmas/atividade 1",
+    "paradigmas/atividade paradigmas.md",
+    "grafica, ficha/CG-Lista1.pdf",
+    "grafica, ficha/ficha 1.md",
+    "grafica, ficha",
+    "atividade paradigmas.md",
+    "paradigmas",
+    "Atividade3 analise swift.md",
+    "atividade grafica.md",
+    "ntp.md",
+    "relatorio_ntp.md",
+    "relatorio-ntpd.md",
+    "Relatorio 1.md",
+    "DNS.pdf",
+    "DNS.md",
+    "Bem-vindo.md"
+  ]
+}

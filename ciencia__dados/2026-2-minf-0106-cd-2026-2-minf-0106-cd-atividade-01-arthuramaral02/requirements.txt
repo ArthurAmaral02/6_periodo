@@ -1,5 +1,0 @@
-pytest
-ipykernel
-numpy 
-scipy
-matplotlib
